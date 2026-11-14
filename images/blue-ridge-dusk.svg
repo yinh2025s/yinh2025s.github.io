@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="1280" viewBox="0 0 2048 1280">
+<defs><linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%" gradientUnits="objectBoundingBox"><stop stop-color="#101b32"/><stop offset=".7" stop-color="#303451"/><stop offset="1" stop-color="#55485b"/></linearGradient></defs>
+<rect width="2048" height="1280" fill="url(#sky)"/>
+<g fill="#dbe5f2" opacity=".6"><circle cx="238" cy="220" r="3"/><circle cx="523" cy="159" r="2"/><circle cx="859" cy="298" r="2"/><circle cx="1110" cy="162" r="3"/><circle cx="1537" cy="136" r="2"/><circle cx="1823" cy="235" r="3"/><circle cx="1664" cy="430" r="2"/></g>
+<circle cx="1650" cy="300" r="52" fill="#f6d1aa" opacity=".8"/>
+<path d="M0 877 160 822 327 760 489 804 670 718 812 802 1013 768 1226 671 1416 787 1565 756 1810 625 2048 769V1280H0Z" fill="#33354f"/>
+<path d="M0 961 205 872 370 901 563 829 775 955 988 855 1198 918 1417 835 1634 920 1870 801 2048 864V1280H0Z" fill="#222d45"/>
+<path d="M0 1042 231 992 420 1024 663 938 834 1037 1057 993 1257 1035 1521 944 1783 1016 2048 939V1280H0Z" fill="#172439"/>
+<path d="M0 1114 226 1050 457 1124 664 1080 878 1127 1087 1051 1282 1120 1477 1081 1700 1120 2048 1033V1280H0Z" fill="#101e31"/>
+</svg>
